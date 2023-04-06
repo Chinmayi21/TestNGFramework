@@ -1,0 +1,14 @@
+com/training/pages/OpportunityPage.class
+com/training/pages/ContactsPage.class
+com/training/pages/CreateAccountPage.class
+com/training/pages/UserMenuPage.class
+com/training/testcases/ContactsTest.class
+com/training/testcases/OpportunityTest.class
+com/training/pages/RandomScenarioPage.class
+com/training/testcases/LeadsTest.class
+com/training/pages/LeadsPage.class
+com/training/testcases/UserMenuTest.class
+com/training/testcases/RandomScenarioTest.class
+com/training/testcases/CreateAccountTest.class
+com/training/testcases/LoginTestCase.class
+com/training/pages/LoginPage.class

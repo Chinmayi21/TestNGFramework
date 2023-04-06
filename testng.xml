@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Sales force">
+
+
+	<test name = "Opportunity">
+		<classes>
+			<class name = "com.training.testcases.OpportunityTest"/>
+		</classes>
+	</test>
+
+<listeners>
+<listener class-name="com.training.listeners.TestListener"></listener>
+</listeners>
+</suite>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Sales force" duration-ms="105801" started-at="2023-04-03T18:23:46 EDT" finished-at="2023-04-03T18:25:32 EDT">
+    <groups>
+    </groups>
+    <test name="Leads" duration-ms="105801" started-at="2023-04-03T18:23:46 EDT" finished-at="2023-04-03T18:25:32 EDT">
+      <class name="com.training.testcases.LoginTestCase">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.training.testcases.LoginTestCase@69a3d1d]" name="beforeMethod" is-config="true" duration-ms="8857" started-at="2023-04-03T18:23:46 EDT" finished-at="2023-04-03T18:23:55 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="clrPwdfield()[pri:0, instance:com.training.testcases.LoginTestCase@69a3d1d]" name="clrPwdfield" duration-ms="15520" started-at="2023-04-03T18:23:55 EDT" finished-at="2023-04-03T18:24:10 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clrPwdfield -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:com.training.testcases.LoginTestCase@69a3d1d]" name="afterMethod" is-config="true" duration-ms="623" started-at="2023-04-03T18:24:10 EDT" finished-at="2023-04-03T18:24:11 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.training.testcases.LoginTestCase.clrPwdfield()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.training.testcases.LoginTestCase@69a3d1d]" name="beforeMethod" is-config="true" duration-ms="6013" started-at="2023-04-03T18:24:11 EDT" finished-at="2023-04-03T18:24:17 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="forgotPassword()[pri:0, instance:com.training.testcases.LoginTestCase@69a3d1d]" name="forgotPassword" duration-ms="3130" started-at="2023-04-03T18:24:17 EDT" finished-at="2023-04-03T18:24:20 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotPassword -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:com.training.testcases.LoginTestCase@69a3d1d]" name="afterMethod" is-config="true" duration-ms="416" started-at="2023-04-03T18:24:20 EDT" finished-at="2023-04-03T18:24:21 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.training.testcases.LoginTestCase.forgotPassword()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.training.testcases.LoginTestCase@69a3d1d]" name="beforeMethod" is-config="true" duration-ms="5898" started-at="2023-04-03T18:24:21 EDT" finished-at="2023-04-03T18:24:26 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="invalidLogin()[pri:0, instance:com.training.testcases.LoginTestCase@69a3d1d]" name="invalidLogin" duration-ms="9649" started-at="2023-04-03T18:24:26 EDT" finished-at="2023-04-03T18:24:36 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLogin -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:com.training.testcases.LoginTestCase@69a3d1d]" name="afterMethod" is-config="true" duration-ms="941" started-at="2023-04-03T18:24:36 EDT" finished-at="2023-04-03T18:24:37 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.training.testcases.LoginTestCase.invalidLogin()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.training.testcases.LoginTestCase@69a3d1d]" name="beforeMethod" is-config="true" duration-ms="6259" started-at="2023-04-03T18:24:37 EDT" finished-at="2023-04-03T18:24:43 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="rememberMe()[pri:0, instance:com.training.testcases.LoginTestCase@69a3d1d]" name="rememberMe" duration-ms="22491" started-at="2023-04-03T18:24:43 EDT" finished-at="2023-04-03T18:25:06 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rememberMe -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:com.training.testcases.LoginTestCase@69a3d1d]" name="afterMethod" is-config="true" duration-ms="620" started-at="2023-04-03T18:25:06 EDT" finished-at="2023-04-03T18:25:06 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.training.testcases.LoginTestCase.rememberMe() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.training.testcases.LoginTestCase@69a3d1d]" name="beforeMethod" is-config="true" duration-ms="7716" started-at="2023-04-03T18:25:06 EDT" finished-at="2023-04-03T18:25:14 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="validLogin()[pri:0, instance:com.training.testcases.LoginTestCase@69a3d1d]" name="validLogin" duration-ms="16818" started-at="2023-04-03T18:25:14 EDT" finished-at="2023-04-03T18:25:31 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLogin -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:com.training.testcases.LoginTestCase@69a3d1d]" name="afterMethod" is-config="true" duration-ms="721" started-at="2023-04-03T18:25:31 EDT" finished-at="2023-04-03T18:25:32 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.training.testcases.LoginTestCase.validLogin()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.training.testcases.LoginTestCase -->
+    </test> <!-- Leads -->
+  </suite> <!-- Sales force -->
+</testng-results>
